@@ -1,5 +1,7 @@
 # 🍕 Pizza Menu App
 
+Live demo https://react-pizza-menu-three.vercel.app/
+
 A modern pizza ordering web application built with React and modern frontend tools.
 
 ## 🚀 Tech Stack
