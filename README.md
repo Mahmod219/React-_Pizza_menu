@@ -1,16 +1,28 @@
-# React + Vite
+# 🍕 Pizza Menu App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live demo https://react-pizza-menu-three.vercel.app/
 
-Currently, two official plugins are available:
+A modern pizza ordering web application built with React and modern frontend tools.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- React
+- React Router (loaders & actions)
+- Redux Toolkit
+- Tailwind CSS
+- Vite
 
-## React Compiler
+## ✨ Features
+- Browse pizza menu
+- Add/remove pizzas to cart
+- Create and submit orders
+- Client-side routing with React Router
+- Global state management using Redux
+- Responsive UI with Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Installation & Local Development
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/USERNAME/pizza-menu.git
+cd pizza-menu
+npm install
+npm run dev
